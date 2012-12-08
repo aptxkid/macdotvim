@@ -1,6 +1,3 @@
-[submodule "haskellmode-vim"]
-	path = haskellmode-vim
-	url = git@github.com:lukerandall/haskellmode-vim.git
 [submodule "bundle/haskellmode"]
 	path = bundle/haskellmode
 	url = git@github.com:lukerandall/haskellmode-vim.git
