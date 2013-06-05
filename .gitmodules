@@ -4,3 +4,6 @@
 [submodule "bundle/fakeclip"]
 	path = bundle/fakeclip
 	url = git@github.com:kana/vim-fakeclip.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = git@github.com:derekwyatt/vim-scala.git
