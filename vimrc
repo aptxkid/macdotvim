@@ -26,6 +26,8 @@ set cursorline
 
 :colorscheme wombat256mod
 
+let g:instant_markdown_slow=1
+
 if has("gui_running")
 	set guioptions=egmrt
 endif
