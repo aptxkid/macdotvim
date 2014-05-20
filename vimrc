@@ -20,6 +20,8 @@ set expandtab
 set noswapfile
 set number
 set ignorecase
+" help vim recognize .md file
+au BufRead,BufNewFile *.md set filetype=markdown
 
 :hi cursorline  ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 set cursorline
