@@ -9,6 +9,7 @@ syntax on
 set background=dark
 set syntax=on
 set autoindent
+set paste
 set autoread
 set cindent
 set tabstop=2
