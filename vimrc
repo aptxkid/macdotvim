@@ -1,6 +1,5 @@
 set nocompatible " must be the first line
 filetype on
-filetype indent on
 filetype plugin on
 set laststatus=2
 set backspace=2
@@ -10,6 +9,7 @@ set background=dark
 set syntax=on
 set paste
 set autoread
+set autoindent
 set cindent
 set tabstop=2
 set shiftwidth=2
